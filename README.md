@@ -79,6 +79,16 @@ PARAMETRA is an Italian software house specialized in developing custom product 
 
 This repository is part of our commitment to openly share our work methodology. We believe it helps product companies make better technology decisions and helps us build better long-term relationships with the companies we work with.
 
+## What's Next
+
+If you've read this far, you're probably a developer who builds product configurators — or is about to.
+
+We are planning to open-source **@parametra/core**, the specialized React library we developed and use to build custom 3D CPQ configurators. It's a thin, render-agnostic wrapper on React and Zustand that handles configuration state, undo/redo history, pricing, validation, persistence, and shareable URLs. It's already in production.
+
+We are also evaluating the release of a set of backend services we use internally, starting with analytics, bug reporting, configuration storage, and real-time sync.
+
+If this sounds useful, write us at **info@parametra.it** for early access.
+
 ## License
 
 This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
